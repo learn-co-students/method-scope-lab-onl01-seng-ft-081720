@@ -30,8 +30,7 @@ describe "#catch_phrase" do
 end
 ```
 
-Go ahead and run the test for this method only by typing `rspec
-spec/catch_phrase_spec.rb` into your terminal in the directory of this lab. You
+Go ahead and run the test for this method only by typing `rspec spec/catch_phrase_spec.rb` into your terminal in the directory of this lab. You
 should see the following error:
 
 ```ruby
